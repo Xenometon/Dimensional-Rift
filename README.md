@@ -1,4 +1,4 @@
-# N-dimension
+# Dimensional-Rift
 
 **A very mysterical sketch figure made through turtle in Python.**
 
