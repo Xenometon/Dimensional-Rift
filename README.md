@@ -9,4 +9,4 @@
 
 **Module used:** *Turtle.*
 
-!- Warning: ☢   (_can be very perplexing..._) 
+! Warning: ☢   (_can be perplexing..._) 
