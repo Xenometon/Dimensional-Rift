@@ -5,9 +5,9 @@
 <br>
 
 **Dependency-**
-- `pip install PythonTurtle`
+➡️ `pip install PythonTurtle`
 
-**Module used:** *Turtle.*
+- **Module used:** `Turtle.`
 
 ! Warning: ☢   (_can be perplexing..._) 
 
