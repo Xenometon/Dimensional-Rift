@@ -4,7 +4,7 @@
 
 <br>
 
-**Dependency-**
+⇒ **Dependency-**
 
 - `pip install PythonTurtle`
 
