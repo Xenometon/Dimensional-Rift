@@ -1,7 +1,6 @@
-# Dimensional-Rift
+# Dimensional-Rift: Python Project.
 
 **A mysterical sketch figure made via Turtle in Python.**
-
 <br>
 
 ⇒ **Dependency-**
