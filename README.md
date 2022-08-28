@@ -1,13 +1,13 @@
 # Dimensional-Rift: Python Project.
 
-➡️ **A mysterical sketch figure made via Turtle in Python.**
+➡️ **A mysterical sketch figure made via Turtle on Python.**
 <br>
 
 ⇒ **Dependency-**
 
 - `pip install PythonTurtle`
 
-! **Warning:** _can be perplexing..._
+! **Warning:** _Can be perplexing..._
 
 
 ------------------
