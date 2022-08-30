@@ -1,4 +1,4 @@
-# Dimensional-Rift: Python Project.
+# Dimensional-Rift: Python Project -
 
 ➡️ **A mysterical sketch figure made via Turtle on Python.**
 <br>
