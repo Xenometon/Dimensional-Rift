@@ -1,4 +1,4 @@
-#This code will result in a mystic dimensional figure 👀
+#This code will result in a mystic-dimensional sketch figure...
 
 #Importing module
 
