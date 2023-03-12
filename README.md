@@ -7,7 +7,7 @@
 
 - `pip install PythonTurtle`
 
-! **Warning:** _Can be very perplexing to comprehend..._
+! **Warning:** _Can be pretty perplexing to comprehend..._
 
 
 ------------------
