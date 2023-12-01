@@ -1,6 +1,6 @@
 # Dimensional-Rift (Python Sketch Project)
 
-➡️ **A Metaphysical sketch figure made via Turtle on Python.**
+➡️ **A Metaphysical sketch figure made via Turtle in Python.**
 <br>
 
 ⇒ **Dependency-**
