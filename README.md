@@ -5,7 +5,7 @@
 
 ⇒ **Dependency -** `pip install PythonTurtle`
 
-! **Warning:** _Can be pretty perplexing to comprehend..._
+❕**Warning:** _Can be pretty perplexing to comprehend..._
 
 
 ------------------
